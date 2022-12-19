@@ -1,0 +1,11 @@
+header article{
+    background-image: url("../Image/Hintergrund\ 1_1.jpeg");
+}
+
+header section p {
+    background-color: linen;
+}
+
+header section h1 {
+    background-color:lightblue ;
+}

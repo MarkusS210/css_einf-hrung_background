@@ -1,0 +1,15 @@
+header section {
+    background-image: url(../Image/Hintergrund2_1.png);
+   /* background-size: 100%; */
+    background-position: left;
+    background-repeat: repeat-y;
+    /* linear-gradient to:right: ;(blue 50%, white ) */
+}
+
+header article {
+    background-image: url(../Image/Hintergrund2_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../Image/Bild\ rechts.jpeg);
+    background-size: right ;
+}
